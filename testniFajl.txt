@@ -1,3 +1,5 @@
 Ovo je nekakav probni text.
 
 merge test.
+
+novo.
